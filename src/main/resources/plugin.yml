@@ -1,0 +1,4 @@
+name: "LegacyUUIDSupport"
+author: TobiasDev
+version: "1.0.0"
+main: de.tobiasgrether.LegacyUUID
