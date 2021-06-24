@@ -1,8 +1,8 @@
 package de.tobiasgrether;
 
 import com.google.gson.JsonElement;
-import dev.waterdog.event.defaults.PreClientDataSetEvent;
-import dev.waterdog.plugin.Plugin;
+import dev.waterdog.waterdogpe.event.defaults.PreClientDataSetEvent;
+import dev.waterdog.waterdogpe.plugin.Plugin;
 
 import java.util.UUID;
 
